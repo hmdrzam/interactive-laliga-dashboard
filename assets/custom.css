@@ -1,0 +1,196 @@
+/* Custom styles for La Liga Dashboard */
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.custom-btn {
+    transition: all 0.3s ease;
+    border: 2px solid #ffffff !important;
+    color: #ffffff !important;
+    padding: 12px 24px;
+    border-radius: 25px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.custom-btn:hover {
+    background-color: #FF4B44 !important;
+    color: #ffffff !important;
+    border: 2px solid #FF4B44 !important;
+    transform: scale(1.08);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1.display-4 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+/* assets/custom.css */
+
+/* --- General Body and Font Styles --- */
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* --- Glassmorphism Page Container --- */
+.glassmorphism-container {
+    background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+    background-attachment: fixed; /* Keeps the gradient static during scroll */
+    min-height: 100vh; /* Ensures background covers the full screen */
+    /* padding-top: 2rem; */
+    padding-bottom: 2rem;
+}
+
+/* --- Glass Card Style --- */
+.glass-card {
+    /* The key to the glass effect */
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px); /* For Safari */
+
+    /* Styling */
+    border-radius: 15px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+/* --- Text and Component Styling for Contrast --- */
+
+/* Ensure card headers and body text are white */
+.glass-card .card-header,
+.glass-card .card-body,
+.glass-card h4 {
+    color: #ffffff;
+}
+
+.glass-card .card-header {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Make list group items transparent to show the glass effect */
+.glass-card .list-group-item {
+    background-color: transparent;
+    color: #ffffff;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.glass-card .list-group-item:last-child {
+    border-bottom: none;
+}
+
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner table {
+    --hover : #1a2a6c !important;
+}
+
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner td, .dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner th {
+    text-align: center !important;
+}
+
+.bg-primary {
+    --bs-bg-opacity: 0.12;
+    background-color: rgba(0,0,0, var(--bs-bg-opacity)) !important;
+}
+
+span.ms-2.text-dark.navbar-brand {
+    font-size: 28px;
+    color: #FF4B44 !important;
+}
+
+a.nav-link.text-dark.fw-bold {
+    color: #FF4B44 !important;
+    font-size: larger;
+}
+
+a.nav-link.text-dark.fw-bold:hover {
+    color: white !important;
+    transform: scale(1.08);
+}
+
+#land-text {
+    margin-bottom: 0 !important;
+}
+
+#logo{
+    transition: 0.1s ease;
+}
+
+#logo:hover {
+    /* background: rgba(255, 215, 0, 0.5); Golden color with 50% transparency */
+    filter: brightness(0) invert(100); /* Approximates RGB(255, 255, 0) */ 
+    transition: 0.1s ease; /* Golden effect */
+}
+
+/* --- Dropdown Styling for Glassmorphism Theme --- */
+
+/* Targets the main dropdown container */
+.Select-control {
+    background-color: rgba(255, 255, 255, 0.2) !important; /* Made slightly more opaque */
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Targets the text of the selected value and the placeholder */
+.Select-value-label, /* More specific selector for the selected item */
+.Select-placeholder {
+    color: #ffffff !important; /* CHANGED: Dark text for high contrast */
+    font-weight: 500;
+}
+
+/* Targets the arrow icon */
+.Select-arrow {
+    border-color: #1a2a6c transparent transparent !important; /* Changed to dark arrow */
+}
+
+/* Targets the dropdown menu that appears */
+.Select-menu-outer {
+    background-color: rgba(40, 40, 40, 0.9) !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+    backdrop-filter: blur(5px);
+}
+
+/* Targets each option in the menu */
+.Select-option {
+    background-color: transparent !important;
+    color: white !important;
+}
+
+/* Changes the color of an option on hover */
+.Select-option.is-focused {
+    background-color: rgba(255, 255, 255, 0.8) !important;
+    color: #1a2a6c !important; 
+}
+
+.nav-tabs {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+.nav-tabs .nav-link {
+    background-color: transparent !important;
+    border: none !important;
+    color: rgba(255, 255, 255, 0.7) !important;
+    font-weight: 500;
+}
+
+.nav-tabs .nav-link:hover {
+    color: white !important;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: rgba(255, 255, 255, 0.1) !important;
+    color: white !important;
+    font-weight: 700;
+    border-bottom: 3px solid white !important;
+}
+
+
+.fs-6 {
+    font-size: 18px !important;
+    font-weight: 900;
+}
+
+#overview-text {
+    font-size: 16px !important;
+    font-weight: 400;
+}

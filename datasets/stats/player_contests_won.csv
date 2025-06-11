@@ -1,0 +1,318 @@
+Rank,Player,Team,Successful Dribbles per 90,Dribble Success Rate (%),Minutes,Matches,Country
+1,Bebé,Rayo Vallecano,5.6,57.1,193,19,CPV
+2,Ilias Akhomach,Villarreal,3.4,49.1,1511,31,MAR
+3,Nico Williams,Athletic Club,3.4,48.3,2280,31,ESP
+4,Brahim Diaz,Real Madrid,3.2,52.9,1551,31,MAR
+5,Savio,Girona,3.1,53.6,2989,37,BRA
+6,Vinicius Junior,Real Madrid,3.1,40.6,1872,26,BRA
+7,Alex Sola,Alavés,3.0,61.4,1285,31,ESP
+8,Isco,Real Betis,2.9,59.4,2338,29,ESP
+9,Lamine Yamal,Barcelona,2.9,54.7,2197,37,ESP
+10,Bryan Zaragoza,Granada CF,2.9,44.9,1640,21,ESP
+11,Alberto Moleiro,Las Palmas,2.8,51.4,1807,28,ESP
+12,Selim Amallah,Valencia CF,2.7,54.5,597,20,MAR
+13,Umar Sadiq,Real Sociedad,2.6,64.6,1074,26,NGA
+14,Robert Navarro,Cádiz,2.6,49.5,1905,28,ESP
+15,Mason Greenwood,Getafe,2.4,58.1,2667,33,ENG
+16,Ander Barrenetxea,Real Sociedad,2.4,55.9,1436,29,ESP
+17,Dodi Lukebakio,Sevilla,2.4,53.6,1124,23,BEL
+18,Takefusa Kubo,Real Sociedad,2.3,55.6,2155,30,JPN
+19,Rodrygo,Real Madrid,2.3,46.9,2388,34,BRA
+20,Joao Cancelo,Barcelona,2.2,61.6,2506,32,POR
+21,Abdessamad Ezzalzouli,Real Betis,2.2,47.9,921,28,MAR
+22,Oscar Trejo,Rayo Vallecano,2.2,43.4,1381,31,ARG
+23,Rodri,Real Betis,2.1,50.0,1039,29,ESP
+24,Pablo Barrios,Atlético de Madrid,2.0,79.5,1556,24,ESP
+25,Ayoze Pérez,Real Betis,2.0,48.1,2307,31,ESP
+26,Iker Muniain,Athletic Club,2.0,44.8,585,20,ESP
+27,Jude Bellingham,Real Madrid,1.9,58.8,2323,28,ENG
+28,Juanlu Sánchez,Sevilla,1.9,51.0,1174,26,ESP
+29,Antonio Puertas,Granada CF,1.9,50.0,720,27,ESP
+30,Yan Couto,Girona,1.9,49.0,2245,34,BRA
+31,Jonathan Bamba,Celta de Vigo,1.9,44.2,1993,27,CIV
+32,Lucas Boye,Granada CF,1.9,41.4,2555,31,ARG
+33,Nabil Fekir,Real Betis,1.8,77.8,1049,19,FRA
+34,Renato Tapia,Celta de Vigo,1.8,75.0,1337,21,PER
+35,Eduardo Camavinga,Real Madrid,1.8,66.7,1824,31,FRA
+36,Memphis Depay,Atlético de Madrid,1.8,52.9,888,23,NED
+37,Largie Ramazani,Almería,1.8,44.9,1560,29,BEL
+38,Samuel Dias Lino,Atlético de Madrid,1.7,58.8,2087,34,BRA
+39,Gerard Moreno,Villarreal,1.7,54.4,2229,30,ESP
+40,Ángel Correa,Atlético de Madrid,1.7,50.9,1525,32,ARG
+41,Fran Pérez,Valencia CF,1.7,46.0,2069,32,ESP
+42,Marc Cardona,Las Palmas,1.7,42.4,724,26,ESP
+43,Adrián Embarba,Almería,1.7,41.4,2485,36,ESP
+44,Joao Félix,Barcelona,1.7,36.3,1542,30,POR
+45,Ianis Hagi,Alavés,1.6,63.6,798,22,ROU
+46,Suso,Sevilla,1.6,62.8,1514,29,ESP
+47,Marc Pubill,Almería,1.6,58.9,1889,23,ESP
+48,Raphinha,Barcelona,1.6,55.8,1370,28,BRA
+49,Javi Galán,Real Sociedad,1.6,51.3,1159,19,ESP
+50,Luis Rioja,Alavés,1.5,64.1,2511,37,ESP
+51,Javi Lopez,Alavés,1.5,59.4,2387,32,ESP
+52,Jesus Areso,Osasuna,1.5,56.4,2661,37,ESP
+53,Lucas Vázquez,Real Madrid,1.5,55.8,1410,29,ESP
+54,Rubén Pena,Osasuna,1.5,51.5,2105,29,ESP
+55,Inaki Williams,Athletic Club,1.5,45.0,2855,34,GHA
+56,Lucas Ocampos,Sevilla,1.5,42.1,2885,35,ARG
+57,Dion Lopy,Almería,1.4,65.9,1917,30,SEN
+58,Fermin Lopez,Barcelona,1.4,64.7,1444,31,ESP
+59,Sergi Darder,Mallorca,1.4,61.8,2154,36,ESP
+60,Enzo Loiodice,Las Palmas,1.4,57.1,1792,34,FRA
+61,Javier Guerra,Valencia CF,1.4,52.1,2502,36,ESP
+62,Raul de Tomas,Rayo Vallecano,1.4,51.3,1277,25,ESP
+63,Étienne Capoue,Villarreal,1.4,51.2,1444,32,FRA
+64,Rodrigo Riquelme,Atlético de Madrid,1.4,38.7,1522,34,ESP
+65,Iván Martin,Girona,1.3,66.1,2744,36,ESP
+66,Ramon Terrats,Villarreal,1.3,55.0,780,19,ESP
+67,Sergi Guardiola,Cádiz,1.3,53.8,475,22,ESP
+67,Valery Fernández,Girona,1.3,53.8,486,27,ESP
+69,Sergi Canos,Valencia CF,1.3,50.0,1234,27,ESP
+70,Oscar Rodriguez,Getafe,1.3,46.7,962,24,ESP
+71,Iván Alejo,Cádiz,1.3,43.6,1702,30,ESP
+72,Abderrahman Rebbach,Alavés,1.3,38.5,713,23,ALG
+73,Manu Morlanes,Mallorca,1.2,75.0,1610,35,ESP
+74,Gonzalo Villar,Granada CF,1.2,60.5,1785,35,ESP
+75,Rodrigo De Paul,Atlético de Madrid,1.2,58.3,2084,34,ARG
+76,Oihan Sancet,Athletic Club,1.2,53.1,1991,30,ESP
+77,Unai Gomez,Athletic Club,1.2,46.2,867,25,ESP
+78,Alex Berenguer,Athletic Club,1.2,37.5,1581,35,ESP
+79,Santi Comesana,Villarreal,1.1,65.6,1656,27,ESP
+80,Benat Turrientes,Real Sociedad,1.1,60.0,1688,29,ESP
+81,Dimitri Foulquier,Valencia CF,1.1,57.9,1833,33,FRA
+82,Luka Modric,Real Madrid,1.1,55.3,1685,32,CRO
+83,Sergio Akieme,Almería,1.1,53.8,1676,19,EQG
+84,Jonathan Viera,Almería,1.1,52.8,1541,21,ESP
+85,Oscar Mingueza,Celta de Vigo,1.1,51.4,3002,38,ESP
+86,Sandro Ramirez,Las Palmas,1.1,46.8,1819,27,ESP
+87,Daniel Rodriguez,Mallorca,1.1,45.2,2632,36,ESP
+88,Isi Palazon,Rayo Vallecano,1.1,43.8,2810,37,ESP
+89,Alexander Sørloth,Villarreal,1.1,42.9,2491,34,NOR
+90,José Arnáiz,Osasuna,1.1,42.3,922,26,ESP
+91,Iago Aspas,Celta de Vigo,1.0,70.7,2715,35,ESP
+92,Rubén Garcia,Osasuna,1.0,66.7,1549,30,ESP
+93,Ilkay Gündogan,Barcelona,1.0,64.2,2997,36,GER
+94,Aimar Oroz,Osasuna,1.0,59.1,2350,33,ESP
+95,Pablo Maffeo,Mallorca,1.0,55.2,1456,22,ARG
+96,Thierry Correia,Valencia CF,1.0,52.3,2157,31,POR
+97,Kike Garcia,Alavés,1.0,50.0,1421,33,ESP
+98,Viktor Tsigankov,Girona,1.0,47.8,2067,30,UKR
+99,Pedri,Barcelona,1.0,44.4,1482,24,ESP
+100,Samuel Omorodion,Alavés,1.0,40.0,2003,35,ESP
+101,Kike Pérez,Rayo Vallecano,1.0,32.1,828,24,ESP
+102,Pathé Ciss,Rayo Vallecano,0.9,85.0,1658,31,SEN
+103,Iddrisu Baba,Almería,0.9,82.4,1424,25,GHA
+104,Yangel Herrera,Girona,0.9,75.9,2120,29,VEN
+105,Inigo Ruiz de Galarreta,Athletic Club,0.9,73.3,2104,29,ESP
+106,Mikel Merino,Real Sociedad,0.9,64.9,2485,32,ESP
+107,Oscar Melendo,Granada CF,0.9,57.9,1126,26,ESP
+108,Unai Lopez,Rayo Vallecano,0.9,56.4,2123,35,ESP
+109,Antonio Sánchez,Mallorca,0.9,53.8,1463,29,ESP
+110,Pep Chavarria,Rayo Vallecano,0.9,52.4,1164,22,ESP
+111,Álex Baena,Villarreal,0.9,52.0,2599,34,ESP
+112,Lucas Pires,Cádiz,0.9,51.7,1527,28,BRA
+113,Alfonso Espino,Rayo Vallecano,0.9,49.0,2512,31,URU
+114,Marvin Park,Las Palmas,0.9,47.5,1852,31,ESP
+115,Anastasios Douvikas,Celta de Vigo,0.9,45.0,886,32,GRE
+116,Brais Méndez,Real Sociedad,0.9,43.6,2420,32,ESP
+117,Jørgen Strand Larsen,Celta de Vigo,0.9,42.6,2887,37,NOR
+118,Diego Lopez,Valencia CF,0.9,41.2,2671,36,ESP
+119,Ruben Sobrino,Cádiz,0.9,41.0,1648,32,ESP
+120,Jorge de Frutos,Rayo Vallecano,0.9,37.5,1542,36,ESP
+121,Hector Bellerin,Real Betis,0.9,36.2,1714,23,ESP
+122,Sergio Camello,Rayo Vallecano,0.9,34.0,1668,31,ESP
+123,Boubakary Soumaré,Sevilla,0.8,80.8,2286,28,FRA
+124,Moi Gomez,Osasuna,0.8,60.7,2010,28,ESP
+125,Andoni Gorosabel,Alavés,0.8,59.5,2863,36,ESP
+126,Gorka Guruzeta,Athletic Club,0.8,59.4,2240,32,ESP
+127,Aihen Munoz,Real Sociedad,0.8,58.8,1120,21,ESP
+128,Sergio Ruiz,Granada CF,0.8,57.5,2501,35,ESP
+129,Nahuel Molina,Atlético de Madrid,0.8,55.2,1855,30,ARG
+130,Álvaro Morata,Atlético de Madrid,0.8,51.5,1909,32,ESP
+131,Robert Lewandowski,Barcelona,0.8,43.4,2758,35,POL
+132,Inigo Lekue,Athletic Club,0.8,41.9,2001,27,ESP
+133,Daniel Ceballos,Real Madrid,0.8,38.5,586,20,ESP
+134,Munir El Haddadi,Las Palmas,0.8,37.5,2470,38,MAR
+134,Pablo Torre,Girona,0.8,37.5,690,26,ESP
+136,Alfonso Pedraza,Villarreal,0.8,34.5,1119,19,ESP
+137,Jesus Vázquez,Valencia CF,0.8,33.3,705,20,ESP
+138,José Luis Morales,Villarreal,0.8,29.0,1037,29,ESP
+139,Djené,Getafe,0.7,85.7,2490,33,TOG
+140,Kirian Rodriguez,Las Palmas,0.7,74.3,3217,37,ESP
+141,Antonio Blanco,Alavés,0.7,70.4,2436,33,ESP
+142,Daniel Parejo,Villarreal,0.7,67.9,2586,33,ESP
+143,Benat Prados,Athletic Club,0.7,66.7,1450,26,ESP
+143,Julian Araujo,Las Palmas,0.7,66.7,1462,25,MEX
+145,Frenkie de Jong,Barcelona,0.7,61.9,1637,20,NED
+146,Antoine Griezmann,Atlético de Madrid,0.7,59.5,2654,33,FRA
+147,Ricard Sánchez,Granada CF,0.7,59.4,2298,33,ESP
+148,Marcos Acuna,Sevilla,0.7,55.6,1296,21,ARG
+149,Federico Valverde,Real Madrid,0.7,51.2,2910,37,URU
+150,Ferland Mendy,Real Madrid,0.7,50.0,1725,23,FRA
+151,Ferran Torres,Barcelona,0.7,47.6,1204,29,ESP
+152,Miguel Gutiérrez,Girona,0.7,45.5,3037,35,ESP
+153,Borja Mayoral,Getafe,0.7,45.0,2162,27,ESP
+154,Radamel Falcao,Rayo Vallecano,0.7,42.9,391,22,COL
+155,Johan Mojica,Osasuna,0.7,40.5,2041,30,COL
+156,Arsen Zakharyan,Real Sociedad,0.7,40.0,1229,29,RUS
+156,Darwin Machis,Cádiz,0.7,40.0,782,21,VEN
+158,Cyle Larin,Mallorca,0.7,37.8,1823,35,CAN
+159,Sergio Arribas,Almería,0.7,34.0,2055,34,ESP
+160,André Silva,Real Sociedad,0.7,27.3,730,19,POR
+161,Nahuel Tenaglia,Alavés,0.6,77.8,1131,25,ARG
+162,Artem Dovbyk,Girona,0.6,68.0,2605,36,UKR
+163,Toni Lato,Mallorca,0.6,66.7,1546,28,ESP
+164,Ander Guevara,Alavés,0.6,65.5,2936,37,ESP
+165,Jesus Navas,Sevilla,0.6,65.0,2010,29,ESP
+166,Hamari Traoré,Real Sociedad,0.6,64.0,2296,31,MLI
+167,Maximo Perrone,Las Palmas,0.6,50.0,1626,29,ARG
+168,Oliver Torres,Sevilla,0.6,47.8,1620,27,ESP
+169,Leo Baptistao,Almería,0.6,46.2,1843,32,BRA
+170,Abdon Prats,Mallorca,0.6,44.4,1258,34,ESP
+171,Gonzalo Melero,Almería,0.6,41.2,1093,28,ESP
+172,Manuel Sánchez,Celta de Vigo,0.6,40.7,1777,26,ESP
+173,Adrià Pedrosa,Sevilla,0.6,40.0,1749,31,ESP
+174,José Ángel Carmona,Getafe,0.6,34.6,1312,30,ESP
+175,Christopher Ramos,Cádiz,0.6,29.0,2627,37,ESP
+176,Pablo Ibánez,Osasuna,0.6,27.6,1141,33,ESP
+177,Omar Mascarell,Mallorca,0.5,88.9,1573,29,EQG
+178,Guido Rodriguez,Real Betis,0.5,76.9,1849,24,ARG
+179,Daley Blind,Girona,0.5,65.4,2971,34,NED
+180,Saul Niguez,Atlético de Madrid,0.5,61.5,1363,34,ESP
+181,Samu,Mallorca,0.5,60.0,2305,34,POR
+182,Abner,Real Betis,0.5,58.3,1397,23,BRA
+183,Giovanni González,Mallorca,0.5,55.6,2463,34,URU
+184,Marc Roca,Real Betis,0.5,55.0,1986,26,ESP
+185,Mika Mármol,Las Palmas,0.5,54.8,3181,36,ESP
+186,Sergi Cardona,Las Palmas,0.5,51.5,2816,35,ESP
+187,Myrto Uzuni,Granada CF,0.5,50.0,2459,34,ALB
+188,Jules Koundé,Barcelona,0.5,48.5,2899,35,FRA
+189,Vedat Muriqi,Mallorca,0.5,48.1,2329,29,KVX
+190,Francisco Garcia,Real Madrid,0.5,47.1,1396,25,ESP
+191,Kieran Tierney,Real Sociedad,0.5,46.7,1243,20,SCO
+192,Javier Hernández,Cádiz,0.5,43.3,2517,30,ESP
+193,Javier Munoz,Las Palmas,0.5,42.4,2646,37,ESP
+194,Jon Guridi,Alavés,0.5,40.0,2697,36,ESP
+195,Luis Milla,Getafe,0.5,39.3,2123,27,ESP
+196,Ezequiel Ávila,Real Betis,0.5,38.9,1166,23,ARG
+197,Luca de la Torre,Celta de Vigo,0.5,36.7,1956,31,USA
+198,Roman Yaremchuk,Valencia CF,0.5,35.7,926,25,UKR
+199,William Carvalho,Real Betis,0.5,33.3,669,22,POR
+200,Anthony Lozano,Almería,0.5,26.3,866,19,HON
+201,Carles Alena,Getafe,0.5,23.1,1007,29,ESP
+202,Benito,Las Palmas,0.5,18.2,368,20,ESP
+203,Stefan Savic,Atlético de Madrid,0.4,100.0,1631,23,MNE
+204,Alex Suárez,Las Palmas,0.4,84.6,2566,32,ESP
+205,Yuri Berchiche,Athletic Club,0.4,81.8,1931,27,ESP
+206,Oriol Romeu,Barcelona,0.4,80.0,930,28,ESP
+206,Ronald Araujo,Barcelona,0.4,80.0,1994,25,URU
+208,Omar Alderete,Getafe,0.4,75.0,2194,31,PAR
+209,Aleix Garcia,Girona,0.4,71.4,3201,37,ESP
+210,Martin Zubimendi,Real Sociedad,0.4,70.6,2655,31,ESP
+211,Mario Hermoso,Atlético de Madrid,0.4,64.7,2556,31,ESP
+212,Isaac Carcelén,Cádiz,0.4,59.1,2609,35,ESP
+213,Jorge Cuenca,Villarreal,0.4,57.1,1961,29,ESP
+214,Ander Herrera,Athletic Club,0.4,55.6,1023,23,ESP
+215,Jaime Mata,Getafe,0.4,53.3,1790,35,ESP
+216,Loic Badé,Sevilla,0.4,52.4,2283,28,FRA
+217,Fran Beltrán,Celta de Vigo,0.4,50.0,2438,33,ESP
+217,José Gayà,Valencia CF,0.4,50.0,1797,24,ESP
+217,Marcos Llorente,Atlético de Madrid,0.4,50.0,2570,37,ESP
+220,Jaume Costa,Mallorca,0.4,47.1,1681,30,ESP
+221,Daniel Carvajal,Real Madrid,0.4,45.0,2172,28,ESP
+222,Juan Iglesias,Getafe,0.4,42.9,1413,23,ESP
+223,Álvaro Garcia,Rayo Vallecano,0.4,41.7,2493,32,ESP
+224,Raul Garcia,Athletic Club,0.4,40.0,404,20,ESP
+225,Mikel Oyarzabal,Real Sociedad,0.4,38.5,2157,33,ESP
+226,Hugo Duro,Valencia CF,0.4,36.1,2994,37,ESP
+227,Diego Rico,Getafe,0.4,35.5,2536,32,ESP
+228,Ante Budimir,Osasuna,0.4,33.3,2449,33,CRO
+229,Raul Garcia,Osasuna,0.4,31.6,1347,35,ESP
+230,Youssef En-Nesyri,Sevilla,0.4,30.6,2573,33,MAR
+231,Lucas Torro,Osasuna,0.3,85.7,1788,28,ESP
+232,Miguel Rubio,Granada CF,0.3,83.3,1559,19,ESP
+232,Unai Nunez,Celta de Vigo,0.3,83.3,2802,34,ESP
+234,Djibril Sow,Sevilla,0.3,71.4,1469,24,SUI
+235,Álex Fernández,Cádiz,0.3,66.7,1283,26,ESP
+235,Aurélien Tchouaméni,Real Madrid,0.3,66.7,1987,27,FRA
+235,Gerard Gumbau,Granada CF,0.3,66.7,2684,35,ESP
+238,Alberto Moreno,Villarreal,0.3,55.6,1490,27,ESP
+239,Juanmi Latasa,Getafe,0.3,54.5,1553,32,ESP
+239,Kiko,Villarreal,0.3,54.5,1579,23,ESP
+239,Pepelu,Valencia CF,0.3,54.5,3305,37,ESP
+242,Jon Moncayola,Osasuna,0.3,50.0,1801,33,ESP
+242,José Copete,Mallorca,0.3,50.0,1335,19,ESP
+242,Willian José,Real Betis,0.3,50.0,1978,33,BRA
+245,Rubén Alcaraz,Cádiz,0.3,47.6,3138,36,ESP
+246,Lucas Robertone,Almería,0.3,47.1,2391,33,ARG
+247,Juan Miranda,Real Betis,0.3,46.7,1860,25,ESP
+248,Joselu,Real Madrid,0.3,46.2,1676,34,ESP
+249,Gaston Álvarez,Getafe,0.3,45.0,2535,34,URU
+250,Maximiliano Gomez,Cádiz,0.3,44.4,1157,31,URU
+251,José Maria Callejon,Granada CF,0.3,42.9,794,25,ESP
+252,Cristian Portu,Girona,0.3,19.0,1271,36,ESP
+253,César Montes,Almería,0.2,100.0,1792,21,MEX
+253,Jon Pacheco,Real Sociedad,0.2,100.0,1521,23,ESP
+253,Paulo Gazzaniga,Girona,0.2,100.0,3420,38,ARG
+256,Cristhian Mosquera,Valencia CF,0.2,85.7,3074,36,ESP
+257,Juan Brandariz,Almería,0.2,83.3,2432,31,ESP
+258,Pau Cubarsi,Barcelona,0.2,75.0,1562,19,ESP
+259,David Lopez,Girona,0.2,71.4,1975,25,ESP
+260,Edgar González,Almería,0.2,70.0,2528,31,ESP
+261,Nemanja Gudelj,Sevilla,0.2,66.7,1744,22,SRB
+261,Sergio Ramos,Sevilla,0.2,66.7,2518,28,ESP
+261,Yeray Álvarez,Athletic Club,0.2,66.7,1155,19,ESP
+264,Oscar Valentin,Rayo Vallecano,0.2,63.6,2700,34,ESP
+265,Axel Witsel,Atlético de Madrid,0.2,62.5,2784,35,BEL
+265,Toni Kroos,Real Madrid,0.2,62.5,2130,33,GER
+267,Daniel Vivian,Athletic Club,0.2,55.6,2879,33,ESP
+268,Ignasi Miquel,Granada CF,0.2,53.3,2991,34,ESP
+269,Carlos Benavidez,Alavés,0.2,50.0,1121,29,URU
+270,Koke,Atlético de Madrid,0.2,45.5,2502,35,ESP
+271,Nemanja Maksimovic,Getafe,0.2,43.8,3272,37,SRB
+272,Arnau Martinez,Girona,0.2,42.9,1240,21,ESP
+272,Cenk Özkacar,Valencia CF,0.2,42.9,1595,23,TUR
+272,Gonzalo Escalante,Cádiz,0.2,42.9,1702,25,ARG
+275,Carlos Neva,Granada CF,0.2,41.2,3152,36,ESP
+275,Iván Balliu,Rayo Vallecano,0.2,41.2,2876,33,ALB
+277,Iker Munoz,Osasuna,0.2,35.7,1856,28,ESP
+278,Roger,Cádiz,0.2,33.3,1367,23,ESP
+279,Juan Cruz,Osasuna,0.2,30.0,1663,26,ESP
+280,Oscar de Marcos,Athletic Club,0.2,27.3,2261,28,ESP
+281,Aridane Hernández,Rayo Vallecano,0.1,100.0,1691,19,EQG
+281,Carlos Dominguez,Celta de Vigo,0.1,100.0,1585,22,ESP
+281,Florian Lejeune,Rayo Vallecano,0.1,100.0,3328,37,FRA
+281,Hugo Guillamon,Valencia CF,0.1,100.0,1305,26,ESP
+281,Jeremias Ledesma,Cádiz,0.1,100.0,3049,34,ARG
+281,Jorge Herrando,Osasuna,0.1,100.0,1644,19,ESP
+281,Luis Maximiano,Almería,0.1,100.0,2970,33,POR
+281,Predrag Rajkovic,Mallorca,0.1,100.0,3240,36,SRB
+289,Abdelkabir Abqar,Alavés,0.1,75.0,2314,27,MAR
+289,David Garcia,Osasuna,0.1,75.0,2336,27,ESP
+289,Fali,Cádiz,0.1,75.0,2550,30,ESP
+289,Rafa Marin,Alavés,0.1,75.0,2442,33,ESP
+289,Rubén Duarte,Alavés,0.1,75.0,1875,28,ESP
+294,Abdul Mumin,Rayo Vallecano,0.1,66.7,1695,20,GHA
+294,Aitor Paredes,Athletic Club,0.1,66.7,2706,34,ESP
+294,José Giménez,Atlético de Madrid,0.1,66.7,1323,22,URU
+297,Andreas Christensen,Barcelona,0.1,50.0,1990,30,DEN
+297,Eric Garcia,Girona,0.1,50.0,2697,32,ESP
+297,Germán Pezzella,Real Betis,0.1,50.0,2770,32,ARG
+297,Igor Zubeldia,Real Sociedad,0.1,50.0,2523,30,ESP
+297,Saul Coco,Las Palmas,0.1,50.0,2293,30,EQG
+302,Alejandro Catena,Osasuna,0.1,42.9,2536,30,ESP
+303,Nacho Fernandez,Real Madrid,0.1,40.0,1739,29,ESP
+304,César Azpilicueta,Atlético de Madrid,0.1,25.0,1421,25,ESP
+305,Cristhian Stuani,Girona,0.1,20.0,782,31,URU
+306,Mikel Vesga,Athletic Club,0.1,16.7,1535,27,ESP
+307,Alejandro Pozo,Almería,0.1,7.7,970,21,ESP
+308,Álvaro Vallés,Las Palmas,0.0,100.0,3264,37,ESP
+308,Filip Jörgensen,Villarreal,0.0,100.0,3240,36,DEN
+308,Jan Oblak,Atlético de Madrid,0.0,100.0,3420,38,SVN
+308,Robin Le Normand,Real Sociedad,0.0,100.0,2473,29,ESP
+308,Rui Silva,Real Betis,0.0,100.0,2475,28,POR
+308,Stole Dimitrievski,Rayo Vallecano,0.0,100.0,3330,37,MKD
+314,Antonio Raillo,Mallorca,0.0,50.0,2198,26,ESP
+314,Victor Chust,Cádiz,0.0,50.0,1870,22,ESP
+316,Antonio Rüdiger,Real Madrid,0.0,33.3,2707,33,GER
+316,Martin Valjent,Mallorca,0.0,33.3,2354,28,SVK
