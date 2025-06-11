@@ -4,6 +4,10 @@ An interactive web dashboard built with Python, Dash, and Plotly for the in-dept
 
 ---
 
+### Dashboard Demo
+
+![LaLiga Dashboard Demo](./assets/dashboard.gif)
+
 ### 📖 About The Project
 
 This project, the **Laliga 2023/2024 Analytical Dashboard**, represents a comprehensive effort to transform raw sports data into an interactive, web-based platform for in-depth analysis. At its core, this dashboard is a testament to the power of data science in unraveling the intricate narratives of a football season, moving beyond simple scores and standings to explore the very fabric of team performance and match dynamics.
