@@ -46,6 +46,18 @@ This project is powered by the following key technologies and libraries:
 
 ---
 
+### 💾 Datasets Used
+
+This project's analysis is built upon the consolidation of two distinct and complementary data sources for the 2023-2024 season:
+
+* **Laliga 2023/24 Team & Player Stats:** Sourced from [Kaggle](https://www.kaggle.com/datasets/whisperingkahuna/la-liga-202324-players-and-team-insights), this dataset provides detailed player and team-level performance metrics, including offensive, defensive, and disciplinary statistics.
+
+* **Spanish La Liga Full Match Data:** Sourced from [DataHub.io](https://datahub.io/core/spanish-la-liga#season-2324), this dataset offers a complete record of all match results, including full-time and half-time scores for every game of the season.
+
+A key data preparation step for this dashboard involved merging these two sources. By combining the match outcomes with the granular performance metrics, we created a single, comprehensive dataset that enables a much richer and more insightful analysis of the season.
+
+---
+
 ### 🚀 Getting Started
 
 To get a local copy up and running, follow these simple steps.
@@ -58,12 +70,12 @@ Make sure you have Python (3.8+) and pip installed on your system.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/hmdrzam/interactive-laliga-dashboard.git](https://github.com/hmdrzam/interactive-laliga-dashboard.git)
+    git clone https://github.com/hmdrzam/interactive-laliga-dashboard.git
     ```
 
 2.  **Navigate to the project directory:**
     ```sh
-    cd your_repository_name
+    cd project_directory
     ```
 
 3.  **Create and activate a virtual environment (recommended):**
